@@ -25,4 +25,14 @@ points = 23
 points = 33
 print(points)
 
+#boolean is true or false
+
+boolean = True
+print(boolean)
+
+
+emoji = "😀"
+print(emoji)
+
+print(8 % 3) # 8 - 3 - 3 = 2
 
