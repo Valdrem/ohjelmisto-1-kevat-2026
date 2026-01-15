@@ -42,6 +42,10 @@ fahrenheit = float(fahrenheit_str)
 celcius = (fahrenheit -32) * 5 / 9
 print(f"The temperature is: {celcius:6.2f}")
 
+import math
+print(math.ceil(math.pi))
+print(math.floor(math.pi))
+
 
 
 
