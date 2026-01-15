@@ -5,8 +5,7 @@ talents = float(input("Enter talents: "))
 pounds = float(input("Enter pounds: "))
 lots = float(input("Enter lots: "))
 
+gram_talents = talents * 20 + 32 + 13.4
+gram_lots = lots * 13.3
 
-gram = lots * 13.3
-
-
-print(f"The wigth in modern units: {gram}")
+print(f"The wigth in modern units: {gram_talents}")
