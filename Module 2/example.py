@@ -34,5 +34,14 @@ print(boolean)
 emoji = "😀"
 print(emoji)
 
-print(8 % 3) # 8 - 3 - 3 = 2
+print(8 % 3) # 8 - 3 - 3 = 2 (eli vähennetään 8sta niin monta 3 kun pystytään
+
+
+fahrenheit_str = input("Type fahrenheit: ")
+fahrenheit = float(fahrenheit_str)
+celcius = (fahrenheit -32) * 5 / 9
+print(f"The temperature is: {celcius:6.2f}")
+
+
+
 
