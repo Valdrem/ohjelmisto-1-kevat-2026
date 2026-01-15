@@ -14,3 +14,15 @@ print(f'Hello, {user}!')
 age = input("What is your age?")
 print("\n")
 print("Okay " + user + ", " + "your age is " + age + "!")
+
+#comment text
+number1 = float(input("First number: "))
+number2 = float(input("Second number: "))
+sum = number1 * number2
+print(f'The sum of {number1} and {number2} is {sum}') #when numbers use f-string
+
+points = 23
+points = 33
+print(points)
+
+
