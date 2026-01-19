@@ -21,5 +21,6 @@ name = input("What is your name?")
 
 if name.lower() == "valery":
     print("Welcome to Valery!")
-
+else:
+    print("Access denied!")
 
