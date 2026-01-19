@@ -14,5 +14,5 @@ if money >= 5:
     if money >= 10:
         print("You have enough money for 2 cups of coffee")
 else:
-    print("You have not enough money")
+    print("You have not enough money!")
 
