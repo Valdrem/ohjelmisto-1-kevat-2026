@@ -10,7 +10,7 @@ else:
 money = 5
 
 if money >= 5:
-    print("You have enough money")
+    print("You have enough money for a cup of coffee")
 else:
     print("You have not enough money")
 
