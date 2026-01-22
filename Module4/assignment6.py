@@ -1,6 +1,6 @@
 import random
 
-total_points =  int(input("How many points would you like? "))
+total_points = int(input("How many points would you like? "))
 
 points_inside_circle = 0
 counter = 0
