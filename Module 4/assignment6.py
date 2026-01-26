@@ -18,3 +18,4 @@ while counter < total_points:
 pi_approx = 4 * points_inside_circle / total_points
 
 print(f"Approximation of pi: {pi_approx:1.4f}")
+

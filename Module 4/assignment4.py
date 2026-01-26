@@ -12,3 +12,4 @@ while user_guess != random_number:
         user_guess = int(input("Guess a number (1-10): "))
 else:
     print("Correct")
+
