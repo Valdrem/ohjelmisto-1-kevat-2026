@@ -8,4 +8,3 @@ while loop < 1000:
         print(loop)
 
     loop = loop + 1
-
